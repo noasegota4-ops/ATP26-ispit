@@ -1,5 +1,7 @@
 # "ATP26-ispit"
 
+| naziv | verzija | autor | datum | tehnologije |
+
 ## User experience design (UX design, UXD, UED, or XD)
 upon which is the centralized requirements for "User Experience Design Research" (also known as UX Design Research), defines the experience a user would go through when interacting with a company, its services, and its products.[1] User experience design is a user centered design approach because it considers the user's experience when using a product or platform.[2] Research, data analysis, and test results drive design decisions in UX design rather than aesthetic preferences and opinions, for which is known as UX Design Research. Unlike user interface design, which focuses solely on the design of a computer interface, UX design encompasses all aspects of a user's perceived experience with a product or website, such as its usability, usefulness, desirability, brand perception, and overall performance. UX design is also an element of the customer experience (CX), and encompasses all design aspects and design stages that are around a customer's experience.[3]
 
@@ -42,7 +44,7 @@ Main article: Interaction design
 In the last few years, the role of interaction designer has shifted from being just focused on specifying UI components and communicating them to the engineers to a situation in which designers have more freedom to design contextual interfaces based on helping meet the user's needs.[15] Therefore, User Experience Design evolved into a multidisciplinary design branch that involves multiple technical aspects from motion graphics design and animation to programming.
 ### Usability
 Main article: Usability
-![slika2](https://github.com/user-attachments/assets/81207aa7-b0f7-4bd3-90e6-8bfaf24fb755)
+[slika2](https://github.com/user-attachments/assets/81207aa7-b0f7-4bd3-90e6-8bfaf24fb755)
 
 Usability is the extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.[16]
 
