@@ -32,7 +32,7 @@ is the art and science of structuring and organizing the information in products
 In the context of information architecture, information is separate from both knowledge and data, and lies nebulously between them. It is information about objects.[9] The objects can range from websites, to software applications, to images et al. It is also concerned with metadata, or data used to describe and represent content objects such as documents, people, process, and organizations. Information architecture also encompasses how the pages and navigation are structured.[10]
 ### Interaction design
 Main article: Interaction design
-(![slika1](https://github.com/user-attachments/assets/d158d7db-0cd0-4a1f-b125-965b9d807d8b)
+![slika1](https://github.com/user-attachments/assets/d158d7db-0cd0-4a1f-b125-965b9d807d8b)
 
 
 - It is well recognized that the component of interaction design is an essential part of user experience (UX) design, centering on the interaction between users and products.[11] The goal of interaction design is to create a product that produces an efficient and delightful end-user experience by enabling users to achieve their objectives in the best way possible.[12][13]
@@ -42,8 +42,8 @@ Main article: Interaction design
 In the last few years, the role of interaction designer has shifted from being just focused on specifying UI components and communicating them to the engineers to a situation in which designers have more freedom to design contextual interfaces based on helping meet the user's needs.[15] Therefore, User Experience Design evolved into a multidisciplinary design branch that involves multiple technical aspects from motion graphics design and animation to programming.
 ### Usability
 Main article: Usability
-[slika2](![pexels-brettjordan-7568301](https://github.com/user-attachments/assets/81207aa7-b0f7-4bd3-90e6-8bfaf24fb755)
-)
+![slika2](https://github.com/user-attachments/assets/81207aa7-b0f7-4bd3-90e6-8bfaf24fb755)
+
 Usability is the extent to which a product can be used by specified users to achieve specified goals with effectiveness, efficiency and satisfaction in a specified context of use.[16]
 
 Usability is attached to all tools used by humans and is extended to both digital and non-digital devices. Thus, it is a subset of user experience but not wholly contained. The section of usability that intersects with user experience design is related to humans' ability to use a system or application. Good usability is essential to positive user experience but does not alone guarantee it.[17]
