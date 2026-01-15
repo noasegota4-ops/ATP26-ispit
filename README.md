@@ -60,7 +60,7 @@ Accessibility of a system describes its ease of reach, use, and understanding. I
 ### WCAG compliance
 Main article: Web Content Accessibility Guidelines
 
-Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible. This makes web content more usable to users in general.[20] Making content more usable and readily accessible to all types of users enhances a user's overall user experience.
+> Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible. This makes web content more usable to users in general.[20] Making content more usable and readily accessible to all types of users enhances a user's overall user experience.
 Human–computer interaction
 Main article: Human–computer interaction
 
