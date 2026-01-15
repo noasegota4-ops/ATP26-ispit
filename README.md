@@ -32,8 +32,8 @@ is the art and science of structuring and organizing the information in products
 In the context of information architecture, information is separate from both knowledge and data, and lies nebulously between them. It is information about objects.[9] The objects can range from websites, to software applications, to images et al. It is also concerned with metadata, or data used to describe and represent content objects such as documents, people, process, and organizations. Information architecture also encompasses how the pages and navigation are structured.[10]
 ### Interaction design
 Main article: Interaction design
-[slika1](![pexels-cottonbro-3585090](https://github.com/user-attachments/assets/d158d7db-0cd0-4a1f-b125-965b9d807d8b)
-)
+(![slika1](https://github.com/user-attachments/assets/d158d7db-0cd0-4a1f-b125-965b9d807d8b)
+
 
 - It is well recognized that the component of interaction design is an essential part of user experience (UX) design, centering on the interaction between users and products.[11] The goal of interaction design is to create a product that produces an efficient and delightful end-user experience by enabling users to achieve their objectives in the best way possible.[12][13]
 
